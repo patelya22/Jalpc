@@ -42,5 +42,20 @@
   job:
     detail: Teaching Assistant
     i18n: msu_a_job
-  icon: fa-plus-square
+  icon: fa-chalkboard-teacher
+  present: false 
+
+- name:
+    detail: Life at Digital
+    i18n: start_up
+  desc:
+    detail: I worked as Software Engineer Intern at Lift at Digital, this was a startup company I worked with. I was incharge of the whole web application since I was working as a lead engineer.
+    i18n: start_up_desc
+  date:
+    detail: April. 2018
+    i18n: start_up_date
+  job:
+    detail: Software Engineer Intern
+    i18n: start_up_job
+  icon: fa-pluse-square
   present: false 
